@@ -1,5 +1,6 @@
 Schoo「Git超入門」練習用のリポジトリです。
 
+
 ### 🌱「マンガ＋実践」が30個！ Amazon開発技法カテゴリ1位常連
 <a href="https://amzn.to/2GgQCox">![Image from Gyazo](https://i.gyazo.com/0465458c28f3cd2b39774b75f7504b32.png)</a>
 
@@ -54,3 +55,4 @@ Tech界隈ならちょっとニヤッとするようなネタも収録してい�
 - マンガでわかるDocker ツイッターアカウント： https://twitter.com/webdesignmanga
 
 2/25
+8/20
